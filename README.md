@@ -1,2 +1,2 @@
 # demo
-This is just for learning the commands
+This is just for learning the commands!
